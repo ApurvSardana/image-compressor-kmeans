@@ -21,3 +21,23 @@ Compressed images are saved to the output folder and shown side-by-side with the
 
 - Python 3.8+
 - numpy, Pillow, scikit-learn, matplotlib, jupyter
+
+## Results
+
+### Effect of K (number of colors)
+
+The same image compressed with different K values:
+
+![K comparison](readme_images/k_comparison.png)
+
+### Image 1 (original vs compressed)
+
+| Original | Compressed (K=8) |
+|----------|------------------|
+| ![Image 1 original](readme_images/image1_original.jpg) | ![Image 1 compressed](readme_images/image1_compressed.jpg) |
+
+### Image 2 (original vs compressed)
+
+| Original | Compressed (K=8) |
+|----------|------------------|
+| ![Image 2 original](readme_images/image2_original.jpg) | ![Image 2 compressed](readme_images/image2_compressed.jpg) |

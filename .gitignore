@@ -2,6 +2,9 @@
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
+# Script to generate README figure (not for repo)
+gen_k_comparison.py
+
 # Input/output (add your own images)
 images/
 compressed/
