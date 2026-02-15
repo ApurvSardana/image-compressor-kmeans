@@ -34,10 +34,10 @@ The same image compressed with different K values:
 
 | Original | Compressed (K=8) |
 |----------|------------------|
-| ![Image 1 original](readme_images/image1_original.jpg) | ![Image 1 compressed](readme_images/image1_compressed.jpg) |
+| <img src="readme_images/image1_original.jpg" width="400" /> | <img src="readme_images/image1_compressed.jpg" width="400" /> |
 
 ### Image 2 (original vs compressed)
 
 | Original | Compressed (K=8) |
 |----------|------------------|
-| ![Image 2 original](readme_images/image2_original.jpg) | ![Image 2 compressed](readme_images/image2_compressed.jpg) |
+| <img src="readme_images/image2_original.jpg" width="400" /> | <img src="readme_images/image2_compressed.jpg" width="400" /> |
